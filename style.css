@@ -304,8 +304,9 @@ button {
   background: #ff4500;
   display: flex;
   justify-content: center;
-  align-items: start;
+  align-items: center;
   width: 200px;
+  gap: 3px;
   box-shadow: 0 2px 4px 3px rgba(255, 69, 0, 0.2);
 }
 .choose-button:hover {
